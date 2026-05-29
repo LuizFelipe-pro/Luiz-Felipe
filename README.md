@@ -33,7 +33,3 @@ Meu objetivo atual é aprimorar minhas habilidades em programação, adquirir ex
 ## Destaques do Repositório
 
 Este perfil será utilizado para compartilhar atividades acadêmicas, apresentações e projetos desenvolvidos ao longo da minha trajetória de aprendizado.
-
-## Contato
-
-GitHub: github.com/SEU-USUARIO
