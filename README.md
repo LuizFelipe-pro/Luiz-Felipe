@@ -1,68 +1,40 @@
-# Luiz-Felipe
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <title>Calculadora</title>
+#Luiz-Felipe
+<h1 align="center">Luiz Felipe</h1>
 
-    <style>
+<p align="center">
+  Estudante de Desenvolvimento de Sistemas • Interessado em Desenvolvimento Web
+</p>
+Estudante de Desenvolvimento de Sistemas na ETEC VAV.
 
-        body{
-            background-color: #202020;
-            font-family: Arial;
-            color: white;
-            text-align: center;
-            margin-top: 100px;
-        }
+## Sobre Mim
 
-        .calculadora{
-            background-color: #2f2f2f;
-            width: 250px;
-            margin: auto;
-            padding: 20px;
-            border-radius: 10px;
-        }
+Sou estudante de Desenvolvimento de Sistemas com grande interesse em desenvolvimento web e tecnologia. Atualmente, estou focado em construir uma base sólida em programação, lógica de resolução de problemas e conceitos de desenvolvimento de software.
 
-        input{
-            width: 90%;
-            padding: 10px;
-            margin-top: 10px;
-            border-radius: 5px;
-            border: none;
-        }
+Gosto de aprender novas tecnologias, aprimorar minhas habilidades técnicas e aplicar o conhecimento adquirido em atividades acadêmicas e futuros projetos pessoais.
 
-        button{
-            margin-top: 15px;
-            padding: 10px;
-            width: 100px;
-            border: none;
-            border-radius: 5px;
-            background-color: green;
-            color: white;
-        }
+## Formação
 
-        h2{
-            margin-top: 20px;
-        }
+**ETEC VAV**
 
-    </style>
+* Curso Técnico em Desenvolvimento de Sistemas
+* Estudos voltados para programação, bancos de dados, desenvolvimento web e fundamentos de software
 
-</head>
-<body>
+## O Que Estou Aprendendo
 
-    <div class="calculadora">
+* Desenvolvimento Web
+* Lógica de Programação
+* Banco de Dados
+* Fundamentos do Desenvolvimento de Software
+* Controle de Versão com Git e GitHub
 
-        <h1>Calculadora</h1>
+## Objetivos
 
-        <input type="text" placeholder="Número 1">
-        <input type="text" placeholder="Número 2">
+Meu objetivo atual é aprimorar minhas habilidades em programação, adquirir experiência prática por meio de projetos e continuar evoluindo como desenvolvedor.
 
-        <button>LUIZ</button>
+## Destaques do Repositório
 
-        <h2>Resultado: LUIZ</h2>
+Este perfil será utilizado para compartilhar atividades acadêmicas, apresentações e projetos desenvolvidos ao longo da minha trajetória de aprendizado.
 
-    </div>
+## Contato
 
-</body>
-</html>
-Meu nome é Luiz Felipe, tenho 15 anos e estudo na ETEC no curso de Desenvolvimento de Sistemas. Atualmente estou aprendendo HTML e CSS e criando alguns projetos simples para praticar programação.
+GitHub: github.com/SEU-USUARIO
