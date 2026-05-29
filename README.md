@@ -3,33 +3,19 @@
 <p align="center">
   Estudante de Desenvolvimento de Sistemas • Interessado em Desenvolvimento Web
 </p>
-Estudante de Desenvolvimento de Sistemas na ETEC VAV.
 
-## Sobre Mim
+## Sobre mim
 
-Sou estudante de Desenvolvimento de Sistemas com grande interesse em desenvolvimento web e tecnologia. Atualmente, estou focado em construir uma base sólida em programação, lógica de resolução de problemas e conceitos de desenvolvimento de software.
+Sou estudante do curso Técnico em Desenvolvimento de Sistemas na ETEC Vasco Antônio Venchiarutti, com interesse em desenvolvimento web e tecnologia.
 
-Gosto de aprender novas tecnologias, aprimorar minhas habilidades técnicas e aplicar o conhecimento adquirido em atividades acadêmicas e futuros projetos pessoais.
+Atualmente estou desenvolvendo meus conhecimentos em programação, bancos de dados, desenvolvimento de software e ferramentas de versionamento como Git e GitHub.
 
-## Formação
+Este perfil reúne atividades acadêmicas, apresentações e projetos desenvolvidos ao longo da minha formação técnica.
 
-**ETEC VAV**
+## Linguagens de programação
 
-* Curso Técnico em Desenvolvimento de Sistemas
-* Estudos voltados para programação, bancos de dados, desenvolvimento web e fundamentos de software
+HTML • CSS  • GitHub • Portugol • Thinkercad
 
-## O Que Estou Aprendendo
+## Repositórios
 
-* Desenvolvimento Web
-* Lógica de Programação
-* Banco de Dados
-* Fundamentos do Desenvolvimento de Software
-* Controle de Versão com Git e GitHub
-
-## Objetivos
-
-Meu objetivo atual é aprimorar minhas habilidades em programação, adquirir experiência prática por meio de projetos e continuar evoluindo como desenvolvedor.
-
-## Destaques do Repositório
-
-Este perfil será utilizado para compartilhar atividades acadêmicas, apresentações e projetos desenvolvidos ao longo da minha trajetória de aprendizado.
+Aqui você encontrará trabalhos, exercícios, apresentações e projetos desenvolvidos durante meus estudos em Desenvolvimento de Sistemas.
