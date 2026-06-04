@@ -1,7 +1,7 @@
 <h1 align="center">Luiz Felipe</h1>
 
 <p align="center">
-  Estudante de Desenvolvimento de Sistemas • Interessado em Desenvolvimento Web
+  Estudante da ETEC Vasco Antonio Venchiarutti
 </p>
 
 ## Sobre mim
